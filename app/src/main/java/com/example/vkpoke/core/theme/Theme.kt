@@ -1,4 +1,4 @@
-package com.example.vkpoke.ui.theme
+package com.example.vkpoke.core.theme
 
 import android.app.Activity
 import android.os.Build
